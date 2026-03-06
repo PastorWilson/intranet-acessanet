@@ -12,6 +12,7 @@ Centralizar o acesso a recursos internos da empresa, melhorando a organização 
 
 Frontend
 - React
+- TypeScript
 - JavaScript
 - HTML5
 - CSS3
